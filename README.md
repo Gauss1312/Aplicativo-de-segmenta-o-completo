@@ -1,6 +1,6 @@
 # Aplicativo de Segmentacao Completo
 
-Projeto desenvolvido por **Gabriel F. S. de Oliveira** para a atividade de segmentacao semantica da disciplina de Deep Learning 2025.1.
+Projeto desenvolvido por **Gabriel F. S. de Oliveira** para a atividade de segmentacao semantica da disciplina de Deep Learning.
 
 Este repositorio reune, em uma unica entrega, o fluxo completo da atividade: treinamento de um modelo de segmentacao, avaliacao visual dos resultados, exportacao para TensorFlow Lite, aplicativo Android em Java e uma interface local em navegador para testar o modelo sem depender de celular, emulador ou ADB.
 
